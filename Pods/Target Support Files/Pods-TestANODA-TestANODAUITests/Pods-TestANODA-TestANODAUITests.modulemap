@@ -1,0 +1,6 @@
+framework module Pods_TestANODA_TestANODAUITests {
+  umbrella header "Pods-TestANODA-TestANODAUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
