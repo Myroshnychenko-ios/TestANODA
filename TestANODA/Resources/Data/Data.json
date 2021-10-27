@@ -1,0 +1,28 @@
+[
+    {
+        "userID": 777,
+        "userName": "myroshnychenko.maxym",
+        "userPhoto": "https://via.placeholder.com/150/92c952",
+        "location": "Dnipro",
+        "publicationImages": ["https://via.placeholder.com/600/92c952", "https://via.placeholder.com/600/771796"],
+        "isRate": true,
+        "isFavorites": false,
+        "likes": 777,
+        "publicationTitle": "This is my post text",
+        "hashtags": ["#mytesthashtag1"],
+        "commentsCount": 147
+    },
+    {
+        "userID": 666,
+        "userName": "test.user",
+        "userPhoto": "https://via.placeholder.com/150/24f355",
+        "location": null,
+        "publicationImages": ["https://via.placeholder.com/600/24f355"],
+        "isRate": false,
+        "isFavorites": true,
+        "likes": 666,
+        "publicationTitle": "This is he post text dkj kl alsjd dkajs;ldj ljadkls djalsdj lasjdkl jaklsjdalskdjlaks j;ljda sjdl",
+        "hashtags": ["#mytesthashtag2", "#mytesthashtag3"],
+        "commentsCount": 256
+    }
+]
